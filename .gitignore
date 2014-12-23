@@ -1,0 +1,13 @@
+build.xml
+*.properties
+build/classes/hbase-site.xml
+*.jar
+manifest.mf
+*.xml
+target/test-dir/hadoop-3114984959943838302
+target/test-dir/hadoop-3212197207115461143
+target/test-dir/hadoop-501474813197394532
+target/test-dir/hadoop-6727482480616800079
+target/test-dir/hadoop-748523536419684822
+target/test-dir/hadoop-8365960221250141941
+dist/README.TXT
